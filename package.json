@@ -1,0 +1,14 @@
+{
+	"name": "determine-mime-type",
+	"description": "determines mime type based on file extension",
+	"main": "determine-mime-type.js",
+	"keywords": [
+		"mimetype"
+	],
+	"author": "vas",
+	"license": "WTFPL",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/vaaas/determine-mime-type.git"
+	}
+}
