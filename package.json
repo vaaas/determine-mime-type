@@ -1,15 +1,15 @@
 {
-	'name': 'determine-mime-type',
-	'version': '1.0.1',
-	'description': 'determines mime type based on file extension',
-	'main': 'determine-mime-type.js',
-	'keywords': [
-		'mimetype'
+	"name": "determine-mime-type",
+	"version": "1.0.1",
+	"description": "determines mime type based on file extension",
+	"main": "determine-mime-type.js",
+	"keywords": [
+		"mimetype"
 	],
-	'author': 'vas',
-	'license': 'AGPL-3.0',
-	'repository': {
-		'type': 'git',
-		'url': 'git://github.com/vaaas/determine-mime-type.git'
+	"author": "vas",
+	"license": "AGPL-3.0",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/vaaas/determine-mime-type.git"
 	}
 }
