@@ -41,6 +41,7 @@ const MIMES = {
 	'.oga': 'audio/ogg',
 	'.m4a': 'audio/x-m4a',
 	'.aac': 'audio/x-m4a',
+	'.opus': 'audio/opus',
 
 	'.webm': 'video/webm',
 	'.mp4': 'video/mp4',
