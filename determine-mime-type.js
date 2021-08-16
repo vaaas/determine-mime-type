@@ -37,11 +37,11 @@ const MIMES = {
 	'.rar': 'application/x-rar-compressed',
 
 	'.mp3': 'audio/mpeg',
-	'.ogg': 'audio/ogg',
+	'.ogg': 'application/ogg',
 	'.oga': 'audio/ogg',
 	'.m4a': 'audio/x-m4a',
 	'.aac': 'audio/x-m4a',
-	'.opus': 'audio/opus',
+	'.opus': 'audio/ogg',
 
 	'.webm': 'video/webm',
 	'.mp4': 'video/mp4',
@@ -54,6 +54,7 @@ const MIMES = {
 	'.mov': 'video/quicktime',
 	'.3gp': 'video/3gpp',
 	'.3gpp': 'video/3gpp',
+	'.ogv': 'video/ogg',
 }
 
 module.exports = x => MIMES[x.slice(x.lastIndexOf('.'))] || DEFAULT

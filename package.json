@@ -1,6 +1,6 @@
 {
 	"name": "determine-mime-type",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "determines mime type based on file extension",
 	"main": "determine-mime-type.js",
 	"keywords": [
